@@ -1,0 +1,15 @@
+[{
+  "Name": "abyss",
+  "Description": "A dark color scheme for micro based on VSCode's Abyss theme.",
+  "Website": "https://github.com/pmarreck/micro-abyss",
+  "Tags": ["colorscheme"],
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "Url": "https://github.com/pmarreck/micro-abyss/archive/0.1.0.zip",
+      "Require": {
+        "micro": ">=1.1.3"
+      }
+    }
+  ]
+}]
